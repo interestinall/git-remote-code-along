@@ -1,1 +1,1 @@
-Git review.
+Git review refreshes the memory.
